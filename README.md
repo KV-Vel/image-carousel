@@ -1,2 +1,8 @@
-# template
-Template with for html, css, js, webpack, eslint with prettier
+# Image carousel
+Image carousel for Odin Project task.
+
+# Technologies
+- HTML
+- CSS
+- Vanilla JS
+
